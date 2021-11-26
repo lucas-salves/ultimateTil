@@ -2,7 +2,7 @@
 
 > TIL: Today I Learned
 
-###Categories
+### Categories
 
 *[Java](#Java)
 *[Git](#Git)
