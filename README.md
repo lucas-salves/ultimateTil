@@ -17,6 +17,9 @@
 ---
 
 ### Java
+- [Apache HttpClient - Interceptors](java/java-http/apache-http-client-interceptors.md)
+- [Apache HttpClient - Upload file using HttpClient](java/java-http/http-client-upload-file-using-http-client.md)
+
 ### Git
 ### Design Patterns
 ### Network
