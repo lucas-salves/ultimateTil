@@ -4,15 +4,15 @@
 
 ### Categories
 
-* [Java](#Java)
-* [Git](#Git)
+* [Java](#java)
+* [Git](#git)
 * [Design Patterns](#design-patterns)
-* [Network](#Network)
-* [Linux](#Linux)
-* [Messaging](#Messaging)
-* [HTTP](#HTTP)
-* [Database](#Database)
-* [Netbeans](#Netbeans)
+* [Network](#network)
+* [Linux](#linux)
+* [Messaging](#messaging)
+* [HTTP](#http)
+* [Database](#database)
+* [Netbeans](#netbeans)
 
 ---
 
