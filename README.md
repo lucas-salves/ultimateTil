@@ -6,7 +6,7 @@
 
 *[Java](#Java)
 *[Git](#Git)
-*[Design Patterns](#Design Patterns)
+*[Design\ Patterns](#Design\ Patterns)
 *[Network](#Network)
 *[Linux](#Linux)
 *[Messaging](#Messaging)
