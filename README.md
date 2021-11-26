@@ -12,7 +12,7 @@
 * [Messaging](#Messaging)
 * [HTTP](#HTTP)
 * [Database](#Database)
-* [Netbeans](#Netbeans)]
+* [Netbeans](#Netbeans)
 
 ---
 
