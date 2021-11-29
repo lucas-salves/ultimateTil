@@ -1,4 +1,4 @@
-#Git Stash
+# Git Stash
 
 Git stash stores changes that you've done on the working copy. This allows you to work on other things, and come back to work later. Stash is useful when you need to toggle the context and work in another thing, but, is in the middle of an code change but it's not ready to make the commit.
 
