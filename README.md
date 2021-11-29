@@ -44,7 +44,7 @@
 - [Creating http requests](java/creating-http-requests)
 - [Upload a file](java/upload-a-file)
 ### Git
-- [Revert to origin's master branch's version of file](git/rever-to-master-branch-of-file)
+- [Revert to origin's master branch's version of file](git/revert-to-master-branch-of-file.md)
 - [Delete unpushed commits](git/delete-unpushed-git-commits)
 - [Git stash](git/stash)
 - [Modify a specified commit](git/modify-a-specified-commit)
