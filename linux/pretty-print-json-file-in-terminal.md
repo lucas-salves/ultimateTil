@@ -13,3 +13,5 @@ Once you have it installed, use it in the following manner to pretty print JSON 
 ```
 jq . sample.json
 ```
+
+The sample.json is the file that contains the JSON data
