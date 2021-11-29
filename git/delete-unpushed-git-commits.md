@@ -1,4 +1,4 @@
-#Delete unpushed commits
+# Delete unpushed commits
 
 Delete the most recent commit, keeping the work you've done:
 
