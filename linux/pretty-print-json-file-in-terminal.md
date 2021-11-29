@@ -1,6 +1,6 @@
 # Pretty print JSON with jq command
 
-jq is a command line JSON processor. You can use it to slice, filer, map and transform structured data.
+jq is a command line JSON processor. You can use it to filter, slicing, prettyfy  or iterate over a json file.
 
 ### jq Installation
 
