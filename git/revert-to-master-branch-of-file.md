@@ -26,5 +26,7 @@ Assuming you want to blow away all commits from your branch (VERY DESTRUCTIVE):
 git reset --hard origin/master
 ```
 
-[Stackoverflow reference](https://stackoverflow.com/questions/1817766/how-to-revert-to-origins-master-branchs-version-of-file)
+### References
+
+[Reference #1: Stackoverflow](https://stackoverflow.com/questions/1817766/how-to-revert-to-origins-master-branchs-version-of-file)
 

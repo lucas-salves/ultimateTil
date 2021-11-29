@@ -22,4 +22,6 @@ git reset --hard origin
 git reset --hard origin/<branch>
 ```
 
-[Stackoverflow Reference](https://stackoverflow.com/questions/3197413/how-do-i-delete-unpushed-git-commits)
+### References
+
+[Reference #1: Stackoverflow](https://stackoverflow.com/questions/3197413/how-do-i-delete-unpushed-git-commits)
