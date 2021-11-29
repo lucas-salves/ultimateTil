@@ -43,6 +43,7 @@
 - [Why the order is reverse in equals()](java/why-the-order-is-reverse-in-equals)
 - [Creating http requests](java/creating-http-requests)
 - [Upload a file](java/upload-a-file)
+- [Get the javax.ws.rs.client.Response response data](java/get-javax.ws.rs.client.Response-response-data.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/revert-to-master-branch-of-file.md)
 - [Delete unpushed commits](git/delete-unpushed-git-commits.md)
