@@ -78,7 +78,7 @@
 ### Network
 ### Linux
 
-- [Pretty print JSON file in Linux terminal](linux/pretty-print-json-file-in-terminal)
+- [Pretty print JSON file in Linux terminal](linux/pretty-print-json-file-in-terminal.md)
 
 ### Messaging
 ### HTTP
