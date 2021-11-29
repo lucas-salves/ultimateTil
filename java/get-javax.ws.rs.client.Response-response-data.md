@@ -1,7 +1,7 @@
 # Getting a javax.ws.rs.client.Response response object data
 
 Use *Response.getEntity()* method, which returns a InputStream. Then convert the InputStream result to a String.
-A method to convert the InputStream to a String using _Stream Api_ example below:
+A method to convert the InputStream into a String using Stream Api example below:
 
 ```
  String result = new BufferedReader(new InputStreamReader(inputStreamToConvert))
