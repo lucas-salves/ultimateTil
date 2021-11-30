@@ -19,7 +19,6 @@
 ### Java
 - [Apache HttpClient - Interceptors](java/java-http/a3c9f256.md)
 - [Apache HttpClient - Upload file using HttpClient](java/java-http/75f20631.md)
-- [Java MD5 hash](java/md5)
 - [Download file](java/download-file)
 - [Encoding of query string parameters](java/encoding-of-query-string-parameters)
 - [Temp file in java](java/temp-file-in-java)
