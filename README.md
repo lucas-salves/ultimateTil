@@ -86,4 +86,7 @@
 ### HTTP
 - [Form data and request payload](http/01.md)
 ### Database
+
+- [Error resolution: Problems installing mongodb on ubuntu 20.04](database/01.md)
+
 ### Netbeans
