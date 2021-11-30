@@ -26,7 +26,7 @@
 - [Extract a zip file](java/extract-a-zip-file)
 - [Encode file to Base64](java/0cb65403.md)
 - [Convert Base64 to PDF in Java](java/1364cd37.md)
-- [try-with-resources](java/try-with-resources)
+- [try-with-resources](java/1bd65047.md)
 - [Convert Date to ISO 8601](java/convert-date-to-iso-8601)
 - [JsonReader: read json data](java/jsonreader-read-json-data)
 - [Arrays.asList vs List.of](java/arrays-aslist-vs-list-of)
