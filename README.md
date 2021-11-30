@@ -17,7 +17,7 @@
 ---
 
 ### Java
-- [Apache HttpClient - Interceptors](java/java-http/apache-http-client-interceptors.md)
+- [Apache HttpClient - Interceptors](java/java-http/apache-http-client-interceptors.md	)
 - [Apache HttpClient - Upload file using HttpClient](java/java-http/http-client-upload-file-using-http-client.md)
 - [Java MD5 hash](java/md5)
 - [Download file](java/download-file)
@@ -44,6 +44,8 @@
 - [Creating http requests](java/creating-http-requests)
 - [Upload a file](java/upload-a-file)
 - [Get the javax.ws.rs.client.Response response data](java/get-javax.ws.rs.client.Response-response-data.md)
+- [Error resolution: Non-static variable cannot be referenced from a static context](java/error-non-static-variable-cannot-be-referenced-from-a-static-context.md)
+
 ### Git
 - [Revert to origin's master branch's version of file](git/revert-to-master-branch-of-file.md)
 - [Delete unpushed commits](git/delete-unpushed-git-commits.md)
