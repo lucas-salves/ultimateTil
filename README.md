@@ -48,7 +48,7 @@
 
 ### Git
 - [Revert to origin's master branch's version of file](git/02.md)
-- [Delete unpushed commits](gi/01.md)
+- [Delete unpushed commits](git/01.md)
 - [Git stash](git/03.md)
 - [Stage a rename](git/stage-a-rename)
 - [Git commit without commit message](git/commit-without-commit-message)
