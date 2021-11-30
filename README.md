@@ -17,8 +17,8 @@
 ---
 
 ### Java
-- [Apache HttpClient - Interceptors](java/java-http/01.md)
-- [Apache HttpClient - Upload file using HttpClient](java/java-http/02.md)
+- [Apache HttpClient - Interceptors](java/java-http/a3c9f256.md)
+- [Apache HttpClient - Upload file using HttpClient](java/java-http/75f20631.md)
 - [Java MD5 hash](java/md5)
 - [Download file](java/download-file)
 - [Encoding of query string parameters](java/encoding-of-query-string-parameters)
@@ -43,13 +43,14 @@
 - [Why the order is reverse in equals()](java/why-the-order-is-reverse-in-equals)
 - [Creating http requests](java/creating-http-requests)
 - [Upload a file](java/upload-a-file)
-- [Get the javax.ws.rs.client.Response response data](java/02.md)
-- [Error resolution: Non-static variable cannot be referenced from a static context](java/01.md)
+- [Get the javax.ws.rs.client.Response response data](java/fad0856f.md)
+- [Error resolution: Non-static variable cannot be referenced from a static context](java/389d8f72.md)
+- [MD5: hash a string](java/e86cebe1.md)
 
 ### Git
-- [Revert to origin's master branch's version of file](git/02.md)
-- [Delete unpushed commits](git/01.md)
-- [Git stash](git/03.md)
+- [Revert to origin's master branch's version of file](git/552f95f3.md)
+- [Delete unpushed commits](git/8d8fa5aa.md)
+- [Git stash](git/d894ff62.md)
 - [Stage a rename](git/stage-a-rename)
 - [Git commit without commit message](git/commit-without-commit-message)
 - [Change git commit message](git/change-git-commit-message)
@@ -80,13 +81,13 @@
 ### Network
 ### Linux
 
-- [Pretty print JSON file in Linux terminal](linux/01.md)
+- [Pretty print JSON file in Linux terminal](linux/45b4ee9a.md)
 
 ### Messaging
 ### HTTP
 - [Form data and request payload](http/01.md)
 ### Database
 
-- [Error resolution: Problems installing mongodb on ubuntu 20.04](database/01.md)
+- [Error resolution: Problems installing mongodb on ubuntu 20.04](database/05152589.md)
 
 ### Netbeans
