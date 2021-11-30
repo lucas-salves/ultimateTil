@@ -24,7 +24,7 @@
 - [Temp file in java](java/2f29e7f5.md)
 - [OpenStream](java/openstream)
 - [Extract a zip file](java/extract-a-zip-file)
-- [Encode file to Base64](java/encode-file-to-base-64)
+- [Encode file to Base64](java/0cb65403.md)
 - [Convert Base64 to PDF in Java](java/1364cd37.md)
 - [try-with-resources](java/try-with-resources)
 - [Convert Date to ISO 8601](java/convert-date-to-iso-8601)
