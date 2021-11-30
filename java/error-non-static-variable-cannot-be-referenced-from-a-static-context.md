@@ -19,3 +19,5 @@ class HelloWorld {
     }
 }
 ```
+### References
+[Stackoverflow Reference #1](https://stackoverflow.com/questions/2559527/non-static-variable-cannot-be-referenced-from-a-static-context)
