@@ -17,8 +17,8 @@
 ---
 
 ### Java
-- [Apache HttpClient - Interceptors](java/java-http/apache-http-client-interceptors.md	)
-- [Apache HttpClient - Upload file using HttpClient](java/java-http/http-client-upload-file-using-http-client.md)
+- [Apache HttpClient - Interceptors](java/java-http/01.md)
+- [Apache HttpClient - Upload file using HttpClient](java/java-http/02.md)
 - [Java MD5 hash](java/md5)
 - [Download file](java/download-file)
 - [Encoding of query string parameters](java/encoding-of-query-string-parameters)
@@ -43,13 +43,13 @@
 - [Why the order is reverse in equals()](java/why-the-order-is-reverse-in-equals)
 - [Creating http requests](java/creating-http-requests)
 - [Upload a file](java/upload-a-file)
-- [Get the javax.ws.rs.client.Response response data](java/get-javax.ws.rs.client.Response-response-data.md)
-- [Error resolution: Non-static variable cannot be referenced from a static context](java/error-non-static-variable-cannot-be-referenced-from-a-static-context.md)
+- [Get the javax.ws.rs.client.Response response data](java/02.md)
+- [Error resolution: Non-static variable cannot be referenced from a static context](java/01.md)
 
 ### Git
-- [Revert to origin's master branch's version of file](git/revert-to-master-branch-of-file.md)
-- [Delete unpushed commits](git/delete-unpushed-git-commits.md)
-- [Git stash](git/stash.md)
+- [Revert to origin's master branch's version of file](git/02.md)
+- [Delete unpushed commits](gi/01.md)
+- [Git stash](git/03.md)
 - [Stage a rename](git/stage-a-rename)
 - [Git commit without commit message](git/commit-without-commit-message)
 - [Change git commit message](git/change-git-commit-message)
@@ -80,10 +80,10 @@
 ### Network
 ### Linux
 
-- [Pretty print JSON file in Linux terminal](linux/pretty-print-json-file-in-terminal.md)
+- [Pretty print JSON file in Linux terminal](linux/01.md)
 
 ### Messaging
 ### HTTP
-- [Form data and request payload](http/form-data-and-request-payload.md)
+- [Form data and request payload](http/01.md)
 ### Database
 ### Netbeans
