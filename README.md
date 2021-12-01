@@ -32,7 +32,7 @@
 - [Arrays.asList vs List.of](java/arrays-aslist-vs-list-of)
 - [Switch case: Multiple cases call the same function](java/1494d4dd.md)
 - [Enum: create enum of Strings](java/enum-create-enum-of-strings)
-- [Static block](java/static-block)
+- [Static block](java/dace1a94.md)
 - [Comparator vs Comparable](java/comparator-vs-comparable)
 - [string.isBlank()](java/isblank)
 - [String.matches(): Validate string length and character validation](java/string-matches)
