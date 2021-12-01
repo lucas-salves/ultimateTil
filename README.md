@@ -46,6 +46,7 @@
 - [Error resolution: Non-static variable cannot be referenced from a static context](java/389d8f72.md)
 - [MD5: hash a string](java/e86cebe1.md)
 - [Gson: Pretty printing](java/e83d0a65.md)
+- [Convert timestamp long into java util Date](java/d8849856.md)
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
