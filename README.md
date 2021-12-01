@@ -29,7 +29,7 @@
 - [try-with-resources](java/1bd65047.md)
 - [Convert Date to ISO 8601](ef89c5aa.md)
 - [JsonReader: read json data](java/jsonreader-read-json-data)
-- [Arrays.asList vs List.of](java/arrays-aslist-vs-list-of)
+- [Arrays.asList vs List.of](java/3e6ab75a.md)
 - [Switch case: Multiple cases call the same function](java/1494d4dd.md)
 - [Enum: create enum of Strings](java/bb618946.md)
 - [Static block](java/dace1a94.md)
