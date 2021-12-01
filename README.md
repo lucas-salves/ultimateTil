@@ -19,7 +19,7 @@
 ### Java
 - [Apache HttpClient - Interceptors](java/java-http/a3c9f256.md)
 - [Apache HttpClient - Upload file using HttpClient](java/java-http/75f20631.md)
-- [Download file](java/download-file)
+- [Download file](java/519331c7.md)
 - [Encoding of query string parameters](java/2e47c805.md)
 - [Temp file in java](java/2f29e7f5.md)
 - [OpenStream](java/openstream)
