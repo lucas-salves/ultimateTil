@@ -38,13 +38,14 @@
 - [String.matches(): Validate string length and character validation](java/string-matches)
 - [Compare LocalDates](java/compare-localdates)
 - [Lambda functions](java/lambda-functions)
-- [Read a XML file] (java/read-a-xml-file)
+- [Read a XML file](java/read-a-xml-file)
 - [Why the order is reverse in equals()](java/why-the-order-is-reverse-in-equals)
 - [Creating http requests](java/creating-http-requests)
 - [Upload a file](java/upload-a-file)
 - [Get the javax.ws.rs.client.Response response data](java/fad0856f.md)
 - [Error resolution: Non-static variable cannot be referenced from a static context](java/389d8f72.md)
 - [MD5: hash a string](java/e86cebe1.md)
+- [Gson: Pretty printing](java/e83d0a65.md)
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
