@@ -35,7 +35,7 @@
 - [Static block](java/dace1a94.md)
 - [Comparator vs Comparable](java/comparator-vs-comparable)
 - [string.isBlank()](java/a7319dd6.md)
-- [String.matches(): Validate string length and character validation](java/string-matches)
+- [String.matches(): Validate string length and character validation](java/1d030945.md)
 - [Compare LocalDates](java/compare-localdates)
 - [Lambda functions](java/lambda-functions)
 - [Read a XML file](java/read-a-xml-file)
