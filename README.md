@@ -30,7 +30,7 @@
 - [Convert Date to ISO 8601](ef89c5aa.md)
 - [JsonReader: read json data](java/jsonreader-read-json-data)
 - [Arrays.asList vs List.of](java/arrays-aslist-vs-list-of)
-- [Switch case: Multiple cases call the same function](java/switch-cases-call-the-same-function)
+- [Switch case: Multiple cases call the same function](java/1494d4dd.md)
 - [Enum: create enum of Strings](java/enum-create-enum-of-strings)
 - [Static block](java/static-block)
 - [Comparator vs Comparable](java/comparator-vs-comparable)
