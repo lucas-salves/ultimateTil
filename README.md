@@ -34,7 +34,7 @@
 - [Enum: create enum of Strings](java/enum-create-enum-of-strings)
 - [Static block](java/dace1a94.md)
 - [Comparator vs Comparable](java/comparator-vs-comparable)
-- [string.isBlank()](java/isblank)
+- [string.isBlank()](java/a7319dd6.md)
 - [String.matches(): Validate string length and character validation](java/string-matches)
 - [Compare LocalDates](java/compare-localdates)
 - [Lambda functions](java/lambda-functions)
