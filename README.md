@@ -50,6 +50,7 @@
 - [Error resolution: An enclosing instance that contains X.Y is required](java/432144c5.md)
 - [Convert Date to timestamp in milli](java/6ed81d28.md)
 - [String args[] main method](java/4be21cd1.md)
+- [Comparator and Comparable](java/ac873f3b.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
