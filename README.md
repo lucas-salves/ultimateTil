@@ -22,7 +22,7 @@
 - [Download file](java/519331c7.md)
 - [Encoding of query string parameters](java/2e47c805.md)
 - [Temp file in java](java/2f29e7f5.md)
-- [OpenStream](java/openstream)
+- [Java IO](java/)
 - [Extract a zip file](java/extract-a-zip-file)
 - [Encode file to Base64](java/0cb65403.md)
 - [Convert Base64 to PDF in Java](java/1364cd37.md)
