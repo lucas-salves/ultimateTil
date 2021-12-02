@@ -28,7 +28,7 @@
 - [Convert Base64 to PDF in Java](java/1364cd37.md)
 - [try-with-resources](java/1bd65047.md)
 - [Convert Date to ISO 8601](ef89c5aa.md)
-- [JsonReader: read json data](java/jsonreader-read-json-data)
+- [JsonReader: read a json file data](java/467f7fc4.md)
 - [Arrays.asList vs List.of](java/3e6ab75a.md)
 - [Switch case: Multiple cases call the same function](java/1494d4dd.md)
 - [Enum: create enum of Strings](java/bb618946.md)
