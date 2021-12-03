@@ -82,8 +82,10 @@
 - [Iterator Pattern](design-patterns/iterator-pattern)
 - [Singleton Pattern](design-patterns/singleton-pattern)
 
+
 ### Network
 ### Linux
+-[Run more than one command at once](linux/38eccc13.md)
 
 - [Pretty print JSON file in Linux terminal](linux/45b4ee9a.md)
 
