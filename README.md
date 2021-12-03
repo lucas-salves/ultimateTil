@@ -82,6 +82,8 @@
 - [Iterator Pattern](design-patterns/iterator-pattern)
 - [Singleton Pattern](design-patterns/singleton-pattern)
 
+### Software Engineering
+- [Use Case modeling](software-engineering/b693f755.md)
 
 ### Network
 ### Linux
