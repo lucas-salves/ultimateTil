@@ -76,11 +76,12 @@
 - [Data modeling: what is an "order line"?](design-patterns/what-is-an-order-line)
 - [Interface: function return an interface](design-patterns/function-return-an-interface)
 - [Facade pattern](design-patterns/facade-pattern)
-- [Design patters to apply to a file system](design-patterns/design-pattern-to-apply-to-a-file-system)
 - [Composite Pattern](design-patterns/composite-pattern)
 - [Decorator pattern](design-patterns/decorator-pattern)
 - [Iterator Pattern](design-patterns/iterator-pattern)
 - [Singleton Pattern](design-patterns/singleton-pattern)
+- [Why use: use case interactors](design-patterns/d32f6a1c.md)
+- [Design patters to apply to a file system](design-patterns/design-pattern-to-apply-to-a-file-system)
 
 ### Software Engineering
 - [Use Case modeling](software-engineering/b693f755.md)
