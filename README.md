@@ -59,7 +59,7 @@
 - [Git commit without commit message](git/43174b9e.md)
 - [Change git commit message](git/614f6258.md)
 - [Remove files from git staging area](git/666287e5.md)
-- [Add deleted files to staging area](git/add-deleted-files-to-staging-area)
+- [Add deleted files to staging area](git/d42bbd72.md)
 - [Undo a git push](git/undo-a-git-push)
 - [Delete a git commit but keep the changes](git/delete-a-git-commit-but-keep-the-changes)
 - [Revert to an old commit](git/revert-to-an-old-commit)
