@@ -65,7 +65,7 @@
 - [Revert to an old commit](git/121fa0db.md)
 - [Git stash: delete all the stashed files at once](git/46070e33.md)
 - [Target classes getting modified after import maven project | Git ignores and maven targets](git/1271cade.md)
-- [Undo a git reset](git/undo-a-git-reset)
+- [Undo a git reset](git/f5a0739b.md)
 - [git rm](git/git-rm)
 - [deleted by us conflict](git/deleted-by-us-conflict)
 - ["Un-revert" a reverted commit](git/unrevert-a-reverted-commit)
