@@ -66,8 +66,8 @@
 - [Git stash: delete all the stashed files at once](git/46070e33.md)
 - [Target classes getting modified after import maven project | Git ignores and maven targets](git/1271cade.md)
 - [Undo a git reset](git/f5a0739b.md)
-- [git rm](git/git-rm)
-- [deleted by us conflict](git/deleted-by-us-conflict)
+- [git rm](git/c20bfcc7.md)
+- [deleted by us conflict](git/a1184795.md)
 - ["Un-revert" a reverted commit](git/unrevert-a-reverted-commit)
 - [Stash an untracked file](git/stash-an-untracked-file)
 
