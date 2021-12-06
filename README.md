@@ -63,7 +63,7 @@
 - [Undo a git push](git/6843ab43.md)
 - [Delete a git commit but keep the changes](git/0a49f306.md)
 - [Revert to an old commit](git/121fa0db.md)
-- [Git stash: delete all the stashed files at once](git/delete-all-the-stashed-files-at-once)
+- [Git stash: delete all the stashed files at once](git/46070e33.md)
 - [Target classes getting modified after import maven project](git/target-classes-getting-modified-after-import)
 - [Undo a git reset](git/undo-a-git-reset)
 - [git rm](git/git-rm)
