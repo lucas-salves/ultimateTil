@@ -69,7 +69,7 @@
 - [git rm](git/c20bfcc7.md)
 - [deleted by us conflict](git/a1184795.md)
 - ["Un-revert" a reverted commit](git/11387bb1.md)
-- [Stash an untracked file](git/stash-an-untracked-file)
+- [Stash an untracked file](git/9aac2dc8.md)
 
 ### Design Patterns
 - [Using verbs in class names](design-patters/using-verbs-in-class-names)
