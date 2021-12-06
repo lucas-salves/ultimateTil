@@ -50,6 +50,7 @@
 - [Error resolution: An enclosing instance that contains X.Y is required](java/432144c5.md)
 - [Convert Date to timestamp in milli](java/6ed81d28.md)
 - [String args[] main method](java/4be21cd1.md)
+- [Store a image into a BufferedImage variable and copy it to a file](java/8b36c9d7.md)
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
