@@ -60,7 +60,7 @@
 - [Change git commit message](git/614f6258.md)
 - [Remove files from git staging area](git/666287e5.md)
 - [Add deleted files to staging area](git/d42bbd72.md)
-- [Undo a git push](git/undo-a-git-push)
+- [Undo a git push](git/6843ab43.md)
 - [Delete a git commit but keep the changes](git/delete-a-git-commit-but-keep-the-changes)
 - [Revert to an old commit](git/revert-to-an-old-commit)
 - [Git stash: delete all the stashed files at once](git/delete-all-the-stashed-files-at-once)
