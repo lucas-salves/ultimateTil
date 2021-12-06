@@ -75,7 +75,7 @@
 - [Using verbs in class names](design-patters/using-verbs-in-class-names)
 - [Data modeling: what is an "order line"?](design-patterns/what-is-an-order-line)
 - [Interface: function return an interface](design-patterns/function-return-an-interface)
-- [Facade pattern](design-patterns/facade-pattern)
+- [Facade pattern](design-patterns/7c6d101c.md)
 - [Composite Pattern](design-patterns/composite-pattern)
 - [Decorator pattern](design-patterns/decorator-pattern)
 - [Iterator Pattern](design-patterns/iterator-pattern)
