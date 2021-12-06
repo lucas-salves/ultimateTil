@@ -62,7 +62,7 @@
 - [Add deleted files to staging area](git/d42bbd72.md)
 - [Undo a git push](git/6843ab43.md)
 - [Delete a git commit but keep the changes](git/0a49f306.md)
-- [Revert to an old commit](git/revert-to-an-old-commit)
+- [Revert to an old commit](git/121fa0db.md)
 - [Git stash: delete all the stashed files at once](git/delete-all-the-stashed-files-at-once)
 - [Target classes getting modified after import maven project](git/target-classes-getting-modified-after-import)
 - [Undo a git reset](git/undo-a-git-reset)
