@@ -68,7 +68,7 @@
 - [Undo a git reset](git/f5a0739b.md)
 - [git rm](git/c20bfcc7.md)
 - [deleted by us conflict](git/a1184795.md)
-- ["Un-revert" a reverted commit](git/unrevert-a-reverted-commit)
+- ["Un-revert" a reverted commit](git/11387bb1.md)
 - [Stash an untracked file](git/stash-an-untracked-file)
 
 ### Design Patterns
