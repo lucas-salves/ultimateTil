@@ -55,6 +55,7 @@ Repository for share everyday learning
 - [CloeseableHttpClient: How to make a upload file request](java/d867fd50.md)
 - [Convert a long to int](java/cbfb8ed2.md)
 - [When to use long vs Long](java/51154fc5.md)
+- [Interpolate Strings](java/c45e6b44.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
