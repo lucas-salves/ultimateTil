@@ -73,6 +73,7 @@ Repository for share everyday learning
 - ["Un-revert" a reverted commit](git/11387bb1.md)
 - [Stash an untracked file](git/9aac2dc8.md)
 - [squareup.okhttp: POST request using okhttp](java/bf7083f5.md)
+- [Parse a OkHttp response into a Object](java/2d22497b.md)
 ### Design Patterns
 - [Using verbs in class names](design-patters/using-verbs-in-class-names)
 - [Data modeling: what is an "order line"?](design-patterns/what-is-an-order-line)
