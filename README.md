@@ -99,7 +99,7 @@ Repository for share everyday learning
 ### Linux
 - [Run more than one command at once](linux/38eccc13.md)
 - [Pretty print JSON file in Linux terminal](linux/45b4ee9a.md)
-- [Select all text from terminal and copy/paste it](linux/)
+- [Select all text from terminal and copy/paste it](linux/3fd0915a.md)
 
 ### Messaging
 ### HTTP
