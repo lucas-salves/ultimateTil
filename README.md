@@ -78,6 +78,8 @@ Repository for share everyday learning
 - [squareup.okhttp: POST request using okhttp](git/bf7083f5.md)
 - [Parse a OkHttp response into a Object](git/2d22497b.md)
 - [Store the git credentials in cache](git/2be14802.md)
+- [Clear git credentials](git/c0abe509.md)
+- [Git Remove a remote](git/ece8bddf.md)
 ### Design Patterns
 - [Using verbs in class names](design-patters/using-verbs-in-class-names)
 - [Data modeling: what is an "order line"?](design-patterns/what-is-an-order-line)
