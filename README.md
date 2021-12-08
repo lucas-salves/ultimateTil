@@ -53,6 +53,8 @@ Repository for share everyday learning
 - [String args[] main method](java/4be21cd1.md)
 - [Store a image into a BufferedImage variable and copy it to a file](java/8b36c9d7.md)
 - [CloeseableHttpClient: How to make a upload file request](java/d867fd50.md)
+- [Convert a long to int](java/cbfb8ed2.md)
+- [When to use long vs Long](java/51154fc5.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
