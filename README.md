@@ -98,8 +98,8 @@ Repository for share everyday learning
 ### Network
 ### Linux
 - [Run more than one command at once](linux/38eccc13.md)
-
 - [Pretty print JSON file in Linux terminal](linux/45b4ee9a.md)
+- [Select all text from terminal and copy/paste it](linux/)
 
 ### Messaging
 ### HTTP
