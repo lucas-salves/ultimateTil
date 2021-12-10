@@ -56,6 +56,7 @@ Repository for share everyday learning
 - [Convert a long to int](java/cbfb8ed2.md)
 - [When to use long vs Long](java/51154fc5.md)
 - [Interpolate Strings](java/c45e6b44.md)
+- [Collections addAll method](java/1eb09ee1.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
@@ -81,6 +82,7 @@ Repository for share everyday learning
 - [Clear git credentials](git/c0abe509.md)
 - [Git Remove a remote](git/ece8bddf.md)
 - [Git stash changes and apply to a new branch](git/45c6b0e7.md)
+- [What is the difference between git pull and git fetch](git/)
 ### Design Patterns
 - [Using verbs in class names](design-patters/using-verbs-in-class-names)
 - [Data modeling: what is an "order line"?](design-patterns/what-is-an-order-line)
