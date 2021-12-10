@@ -58,6 +58,8 @@ Repository for share everyday learning
 - [Interpolate Strings](java/c45e6b44.md)
 - [Collections addAll method](java/1eb09ee1.md)
 - [Check if a object is a collection type](java/4cbe3a1a.md)
+- [RESTFUL Java with JAX 2.0](java/77b4e71e.md)
+- [java.io.File separator variables](java/9fca123d.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
