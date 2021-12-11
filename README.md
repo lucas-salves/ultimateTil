@@ -60,6 +60,8 @@ Repository for share everyday learning
 - [Check if a object is a collection type](java/4cbe3a1a.md)
 - [RESTFUL Java with JAX 2.0](java/77b4e71e.md)
 - [java.io.File separator variables](java/9fca123d.md)
+- [Collections: List](java/c4c7bbb2.md)
+
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
