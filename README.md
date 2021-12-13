@@ -64,6 +64,7 @@ Repository for share everyday learning
 - [Collections: List](java/c4c7bbb2.md)
 - [Concurrency: Thread-safe](java/9e9b0879.md)
 - [Concurrency: AtomicInteger](java/3b358836.md)
+- [Parse scientific notation to regular int](java/d26d9de1.md)
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
