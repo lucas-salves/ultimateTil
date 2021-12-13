@@ -112,6 +112,10 @@ Repository for share everyday learning
 - [Select all text from terminal and copy/paste it](linux/3fd0915a.md)
 
 ### Messaging
+
+### Computing
+- [Why use Multithreading in a web application](computing/9cc197ec.md)
+
 ### HTTP
 - [Form data and request payload](http/01.md)
 ### Database
