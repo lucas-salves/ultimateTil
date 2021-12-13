@@ -11,6 +11,7 @@ Repository for share everyday learning
 * [Network](#network)
 * [Linux](#linux)
 * [Messaging](#messaging)
+* [Computing](#computing)
 * [HTTP](#http)
 * [Database](#database)
 * [Netbeans](#netbeans)
