@@ -61,6 +61,7 @@ Repository for share everyday learning
 - [RESTFUL Java with JAX 2.0](java/77b4e71e.md)
 - [java.io.File separator variables](java/9fca123d.md)
 - [Collections: List](java/c4c7bbb2.md)
+- [Concurrency: Thread-safe](java/9e9b0879.md)
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
