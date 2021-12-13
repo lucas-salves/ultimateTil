@@ -1,0 +1,9 @@
+# What is the difference between git pull and git fetch
+
+git fetch:
+Look for difference in the current branch.
+
+git pull:
+Do the *git fetch* and do the *merge* of the differences.
+
+### Re
