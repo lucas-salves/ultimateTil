@@ -76,6 +76,7 @@ Repository for share everyday learning
 
 #### Variables
 - [Variables](python/0a3affb2.md)
+- [Variable names](python/1f38e650.md)
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
