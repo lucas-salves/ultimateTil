@@ -130,6 +130,31 @@ Repository for share everyday learning
 ### Computing
 - [Why use Multithreading in a web application](computing/9cc197ec.md)
 
+### AWS
+- [IAM](aws/)
+- [S3](aws/)
+- [EC2](aws/)
+- [EBS](aws/)
+- [EFS](aws/)
+- [Redshift](aws/)
+- [RDS](aws/)
+- [DynamoDB](aws/)
+- [Auto Scaling](aws/)
+- [VPN](aws/)
+- [VPC](aws/)
+- [Transit Gateway](aws/)
+- [Internet Gateway](aws/)
+- [NAT Gateway](aws/)
+- [Cloud Front](aws/)
+- [Cloud Formation](aws/)
+- [Cloud Trail](aws/)
+- [Cloud Watch](aws/)
+- [AWS Security best practices](aws/)
+	- [IAM policies](aws/)
+	- [KMS](aws/)
+- [Regions and Availability zones (AZ)](aws/)
+- [Q&A](aws/)
+
 ### HTTP
 - [Form data and request payload](http/01.md)
 ### Database
