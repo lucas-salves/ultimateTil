@@ -79,6 +79,7 @@ Repository for share everyday learning
 - [Variable names](python/1f38e650.md)
 - [Assign multiple values](python/088e1f79.md)
 - [Output variables](python/e34e4392.md)
+- [Global variables](python/44b7b3e0.md)
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
