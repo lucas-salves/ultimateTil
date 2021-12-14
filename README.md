@@ -74,6 +74,9 @@ Repository for share everyday learning
 - [Identation](python/1cfde0aa.md)
 - [Comments](python/a6e8f47c.md)
 
+#### Variables
+- [Variables](python/0a3affb2.md)
+
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
