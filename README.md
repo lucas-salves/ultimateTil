@@ -65,7 +65,8 @@ Repository for share everyday learning
 - [Concurrency: Thread-safe](java/9e9b0879.md)
 - [Concurrency: AtomicInteger](java/3b358836.md)
 - [Parse scientific notation to regular int](java/d26d9de1.md)
-- [Java Timer schedule()](java/93ee735b.md)
+- [Timer schedule()](java/93ee735b.md)
+- [Reading json file and deserializes it into Java Object](java/9b9902e0.md)
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
