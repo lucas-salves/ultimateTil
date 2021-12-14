@@ -70,7 +70,9 @@ Repository for share everyday learning
 - [Reading json file and deserializes it into Java Object](java/9b9902e0.md)
 
 ### Python
+#### Syntax
 - [Identation](python/1cfde0aa.md)
+- [Comments](python/a6e8f47c.md)
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
