@@ -69,6 +69,7 @@ Repository for share everyday learning
 - [Timer schedule()](java/93ee735b.md)
 - [Reading json file and deserializes it into Java Object](java/9b9902e0.md)
 - [Return with no expression](java/b201343c.md)
+- [Varargs: ... parameters](java/257c5094.md)
 
 ### Python
 #### Syntax
