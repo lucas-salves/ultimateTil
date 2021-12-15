@@ -134,7 +134,7 @@ Repository for share everyday learning
 - [Why use Multithreading in a web application](computing/9cc197ec.md)
 
 ### AWS
-- [IAM](aws/)
+- [IAM](aws/61052c34.md)
 - [S3](aws/)
 - [EC2](aws/)
 - [EBS](aws/)
