@@ -68,6 +68,7 @@ Repository for share everyday learning
 - [Parse scientific notation to regular int](java/d26d9de1.md)
 - [Timer schedule()](java/93ee735b.md)
 - [Reading json file and deserializes it into Java Object](java/9b9902e0.md)
+- [Return with no expression](java/b201343c.md)
 
 ### Python
 #### Syntax
