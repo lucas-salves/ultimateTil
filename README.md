@@ -115,6 +115,7 @@ Repository for share everyday learning
 - [Git Remove a remote](git/ece8bddf.md)
 - [Git stash changes and apply to a new branch](git/45c6b0e7.md)
 - [What is the difference between git pull and git fetch](git/)
+- [Do a diff between a local and remote file](git/05802050.md)
 ### Design Patterns
 - [Using verbs in class names](design-patters/using-verbs-in-class-names)
 - [Data modeling: what is an "order line"?](design-patterns/what-is-an-order-line)
