@@ -137,7 +137,7 @@ Repository for share everyday learning
 
 ### AWS
 - [IAM](aws/61052c34.md)
-- [S3](aws/)
+- [S3](aws/6f9f7d7e.md)
 - [EC2](aws/)
 - [EBS](aws/)
 - [EFS](aws/)
