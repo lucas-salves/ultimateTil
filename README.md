@@ -85,8 +85,8 @@ Repository for share everyday learning
 
 #### Data types
 - [Build-int data types](python/af1602fd.md)
-- [Python Numbers](python/6efe4246.md)
-- [Python Casting](python/c87b32ef.md)
+- [Numbers](python/6efe4246.md)
+- [Casting](python/c87b32ef.md)
 - [Strings](python/7b275369.md)
 	- [Slicing Strings](python/fb3d63b4.md)
 ### Git
