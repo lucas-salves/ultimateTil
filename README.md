@@ -87,6 +87,7 @@ Repository for share everyday learning
 - [Build-int data types](python/af1602fd.md)
 - [Python Numbers](python/6efe4246.md)
 - [Python Casting](python/c87b32ef.md)
+- [Strings](python/7b275369.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
