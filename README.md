@@ -90,6 +90,8 @@ Repository for share everyday learning
 - [Strings](python/7b275369.md)
 	- [Slicing Strings](python/fb3d63b4.md)
 	- [Modify Strings](python/9172e134.md)
+	- [Concatenation](python/aa93ef98.md)
+	- [Format](python/d91677e9.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
