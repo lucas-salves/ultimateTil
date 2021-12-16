@@ -85,6 +85,7 @@ Repository for share everyday learning
 
 #### Data types
 - [Build-int data types](python/af1602fd.md)
+- [Python Numbers](python/6efe4246.md)
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
