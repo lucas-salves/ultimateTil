@@ -88,6 +88,7 @@ Repository for share everyday learning
 - [Python Numbers](python/6efe4246.md)
 - [Python Casting](python/c87b32ef.md)
 - [Strings](python/7b275369.md)
+	- [Slicing Strings](python/fb3d63b4.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
