@@ -96,7 +96,7 @@ Repository for share everyday learning
 	- [Methods](python/191d9d36.md)
 - [Boolean Values](python/a2248bc3.md)
 - [Operators](python/039758b9.md)
-- [Lists](python/)
+- [Lists](python/c9e7b0a1.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
