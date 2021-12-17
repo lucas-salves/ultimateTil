@@ -1,0 +1,71 @@
+# List
+
+Lists are one of 4 built-in data types used to store collections of data. The 3 other are: Tuple, Set and Dictionary.
+
+List example:
+```
+thislsit = ["apple","banana","cherry"]
+print(thislist)
+```
+
+List Items are ordered, changeable and allow duplicate values.
+The first index of a list is [0].
+
+## Ordered
+Items have a defined order and that order will not change.
+New items are added to the end of the list.
+
+## Note: There are some list methods that will change the order, but in general the order of the items will no change
+
+## Changeable
+List allows us add and remove items in a list after it has been created.
+
+## Allow Duplicates
+Since lists are indexed, lists can have items with the same value:
+```
+thislist = ["apple","banana","cherry","apple","cherry"]
+print(thislist)
+```
+
+## List Length
+Returns how many items a list has:
+```
+thislist = ["apple","banana","cherry"]
+print(len(thislist))
+```
+
+## List items
+List items can be of any data type:
+```
+list 1 = ["apple,"banana"]
+list 2 = [1,5]
+list 3 = [True, False]
+```
+
+A list can contain different data types:
+```
+list1 = ["abc", 34, True,40,"male"]
+```
+
+## type()
+From pythons's perspective, lists are defined as objects with the data type: 'list'.
+```
+<class 'list'>
+```
+
+## The list() constructor
+It is possible to create a new list using the list() constructor
+```
+thislist = list(("apple","banana","cherry"))
+print(thislist)
+```
+
+## Python Collections(Arrays)
+
+* List is a ordered and changeable collection that allows duplicate members
+* Tuple is a ordered and unchangeable collection that allows ducplicate members
+* Set is a unordered and unchangeable and unindexed collection that doesn't allow duplicate members
+* Dictionary is a ordered and changeable collections that doesn'nt allow duplicate members
+
+### Reference Source
+- [Python Collections (Arrays)](https://www.w3schools.com/python/python_lists.asp)
