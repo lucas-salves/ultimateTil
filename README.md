@@ -95,6 +95,7 @@ Repository for share everyday learning
 	- [Escape](python/2244b5b8.md)
 	- [Methods](python/191d9d36.md)
 - [Boolean Values](python/a2248bc3.md)
+- [Operators](https://www.w3schools.com/python/python_operators.asp)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
