@@ -70,6 +70,7 @@ Repository for share everyday learning
 - [Reading json file and deserializes it into Java Object](java/9b9902e0.md)
 - [Return with no expression](java/b201343c.md)
 - [Varargs: ... parameters](java/257c5094.md)
+- [Streams: Filter](java/c0424366.md)
 
 ### Python
 #### Syntax
