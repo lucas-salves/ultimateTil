@@ -74,6 +74,7 @@ Repository for share everyday learning
 - [Lambda: modify variable from inside lambda](java/74f30fcd.md)
 - [Retrieve all values from hashmap keys in an ArrayList](java/a6a1b39b.md)
 - [Ternary Operator](java/a89868c2.md)
+- [Trim: remove spaces from begin and end of a String](java/21151374.md)
 
 ### Python
 #### Syntax
