@@ -72,6 +72,8 @@ Repository for share everyday learning
 - [Varargs: ... parameters](java/257c5094.md)
 - [Streams: Filter](java/c0424366.md)
 - [Lambda: modify variable from inside lambda](java/74f30fcd.md)
+- [Retrieve all values from hashmap keys in an ArrayList](java/a6a1b39b.md)
+- [Ternary Operator](java/a89868c2.md)
 
 ### Python
 #### Syntax
