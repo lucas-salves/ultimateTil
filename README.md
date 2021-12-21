@@ -71,6 +71,7 @@ Repository for share everyday learning
 - [Return with no expression](java/b201343c.md)
 - [Varargs: ... parameters](java/257c5094.md)
 - [Streams: Filter](java/c0424366.md)
+- [Lambda: modify variable from inside lambda](java/74f30fcd.md)
 
 ### Python
 #### Syntax
