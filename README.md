@@ -105,6 +105,7 @@ Repository for share everyday learning
 	- [Change item value](python/5a2145e8.md)
 	- [Add List items](python/00a1aed4.md)
 	- [Remove List items](python/32f75f38.md)
+	- [List loop](python/1de237ba.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
