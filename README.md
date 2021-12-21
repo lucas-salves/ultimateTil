@@ -102,6 +102,7 @@ Repository for share everyday learning
 - [Operators](python/039758b9.md)
 - [Lists](python/c9e7b0a1.md)
 	- [Acess List Items](python/f655ce1d.md)
+	- [Change item value](python/5a2145e8.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
