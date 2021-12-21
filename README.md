@@ -108,6 +108,7 @@ Repository for share everyday learning
 	- [ loop](python/1de237ba.md)
 	- [Sort](python/f1165d1c.md)
 	- [Copy lists](python/09d5f346.md)
+	- [Join Lists](python/f58c7fc8.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
