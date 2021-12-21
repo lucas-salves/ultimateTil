@@ -143,6 +143,7 @@ Repository for share everyday learning
 
 ### Software Engineering
 - [Use Case modeling](software-engineering/b693f755.md)
+- [How to name java.util.Map variables](software-engineering/d42960cf.md)
 
 ### Network
 ### Linux
