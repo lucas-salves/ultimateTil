@@ -112,6 +112,7 @@ Repository for share everyday learning
 	- [Join Lists](python/f58c7fc8.md)
 	- [List of List methods](python/325767a1.md)
 - [Tuples](python/ec9ba941.md)
+	- [Access tuple items](python/2ae8fbdf.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
