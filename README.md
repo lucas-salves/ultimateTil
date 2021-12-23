@@ -117,6 +117,7 @@ Repository for share everyday learning
 	- [Unpacking a tuple](python/6c9ecf5e.md)
 	- [Loop tuples](python/2dfb8e94.md)
 	- [Join Tuples](python/d8c91b72.md)
+	- [Python built in methods](python/546b6b23.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
