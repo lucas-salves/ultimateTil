@@ -121,6 +121,7 @@ Repository for share everyday learning
 - [Sets](python/34bfeaef.md)
 	- [Add items](python/2428de3b.md)
 	- [Remove items](python/bef41900.md)
+	- [Join Sets](python/5c9452cb.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
