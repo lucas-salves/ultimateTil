@@ -119,6 +119,7 @@ Repository for share everyday learning
 	- [Join Tuples](python/d8c91b72.md)
 	- [Python built in methods](python/546b6b23.md)
 - [Sets](python/34bfeaef.md)
+	- [Add items](python/2428de3b.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
