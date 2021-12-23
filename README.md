@@ -120,6 +120,7 @@ Repository for share everyday learning
 	- [Python built in methods](python/546b6b23.md)
 - [Sets](python/34bfeaef.md)
 	- [Add items](python/2428de3b.md)
+	- [Remove items](python/bef41900.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
