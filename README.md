@@ -123,6 +123,7 @@ Repository for share everyday learning
 	- [Remove items](python/bef41900.md)
 	- [Join Sets](python/5c9452cb.md)
 - [Dictionaries](python/87f65f60.md)
+	- [Access items](python/eacef1f2.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
