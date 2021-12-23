@@ -128,6 +128,7 @@ Repository for share everyday learning
 	- [Add items](python/2428de3b.md)
 	- [Pop items](python/51682c82.md)
 	- [Copy dictionaries](python/6591badb.md)
+	- [Nested dictionaries](python/8f910257.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
