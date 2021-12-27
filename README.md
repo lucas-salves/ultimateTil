@@ -131,6 +131,7 @@ Repository for share everyday learning
 	- [Nested dictionaries](python/8f910257.md)
 	- [Dictionary methods](python/9fb1dec4.md)
 - [If...else](python/2a9635bb.md)
+- [While loops](python/cbab71c4.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
