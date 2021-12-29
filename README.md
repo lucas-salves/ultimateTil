@@ -76,6 +76,7 @@ Repository for share everyday learning
 - [Ternary Operator](java/a89868c2.md)
 - [Trim: remove spaces from begin and end of a String](java/21151374.md)
 - [Concurrency: Are Class variables shared between threads?](java/8838b9e9.md)
+- [Collections: LinkedList](java/7bf6cd78.md)
 
 ### Python
 #### Syntax
