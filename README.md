@@ -134,6 +134,7 @@ Repository for share everyday learning
 	- [Dictionary methods](python/9fb1dec4.md)
 - [If...else](python/2a9635bb.md)
 - [While loops](python/cbab71c4.md)
+- [For loops](python/a42eb074.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
