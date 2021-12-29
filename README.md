@@ -140,6 +140,7 @@ Repository for share everyday learning
 - [Classes](python/cd504759.md)
 - [Iterators](python/f4c72fc9.md)
 - [Scope](python/c16e7ad7.md)
+- [Modules](python/e10a7a4b.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
