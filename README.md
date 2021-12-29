@@ -138,6 +138,7 @@ Repository for share everyday learning
 - [Functions](python/c3928d09.md)
 - [Lambda](python/d431fab4.md)
 - [Classes](python/cd504759.md)
+- [Iterators](python/f4c72fc9.md)
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
