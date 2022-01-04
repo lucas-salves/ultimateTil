@@ -206,7 +206,7 @@ Repository for share everyday learning
 - [Redshift](aws/5be3c984.md)
 - [RDS](aws/f60ea983.md)
 - [DynamoDB](aws/a1a9bf2f.md)
-- [Auto Scaling](aws/)
+- [Auto Scaling](aws/fc391065.md)
 - [VPN](aws/)
 - [VPC](aws/)
 - [Transit Gateway](aws/)
