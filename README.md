@@ -203,7 +203,7 @@ Repository for share everyday learning
 - [EC2](aws/9a93db7f.md)
 - [EBS](aws/b93dbbf0.md)
 - [EFS](aws/dd517ef4.md)
-- [Redshift](aws/)
+- [Redshift](aws/5be3c984.md)
 - [RDS](aws/)
 - [DynamoDB](aws/)
 - [Auto Scaling](aws/)
