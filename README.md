@@ -201,7 +201,7 @@ Repository for share everyday learning
 - [IAM](aws/61052c34.md)
 - [S3](aws/6f9f7d7e.md)
 - [EC2](aws/9a93db7f.md)
-- [EBS](aws/)
+- [EBS](aws/b93dbbf0.md)
 - [EFS](aws/)
 - [Redshift](aws/)
 - [RDS](aws/)
