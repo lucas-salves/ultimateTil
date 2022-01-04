@@ -205,7 +205,7 @@ Repository for share everyday learning
 - [EFS](aws/dd517ef4.md)
 - [Redshift](aws/5be3c984.md)
 - [RDS](aws/f60ea983.md)
-- [DynamoDB](aws/)
+- [DynamoDB](aws/a1a9bf2f.md)
 - [Auto Scaling](aws/)
 - [VPN](aws/)
 - [VPC](aws/)
