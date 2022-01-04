@@ -192,7 +192,8 @@ Repository for share everyday learning
 - [Select all text from terminal and copy/paste it](linux/3fd0915a.md)
 
 ### Messaging
-
+### RabbitMQ
+- [Queue Properties](rabbitmq/42d0952a.md)
 ### Computing
 - [Why use Multithreading in a web application](computing/9cc197ec.md)
 
