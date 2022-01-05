@@ -210,7 +210,7 @@ Repository for share everyday learning
 - [VPN](aws/bcafbad3.md)
 - [VPC](aws/c21ec66e.md)
 - [Transit Gateway](aws/921599c9.md)
-- [Internet Gateway](aws/)
+- [Internet Gateway](aws/bfe71d87.md)
 - [NAT Gateway](aws/)
 - [Cloud Front](aws/)
 - [Cloud Formation](aws/)
