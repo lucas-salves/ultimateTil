@@ -209,7 +209,7 @@ Repository for share everyday learning
 - [Auto Scaling](aws/fc391065.md)
 - [VPN](aws/bcafbad3.md)
 - [VPC](aws/c21ec66e.md)
-- [Transit Gateway](aws/)
+- [Transit Gateway](aws/921599c9.md)
 - [Internet Gateway](aws/)
 - [NAT Gateway](aws/)
 - [Cloud Front](aws/)
