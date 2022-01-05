@@ -212,7 +212,7 @@ Repository for share everyday learning
 - [Transit Gateway](aws/921599c9.md)
 - [Internet Gateway](aws/bfe71d87.md)
 - [NAT Gateway](aws/0e26a62a.md)
-- [Cloud Front](aws/)
+- [CloudFront](aws/f1b61c5d.md)
 - [Cloud Formation](aws/)
 - [Cloud Trail](aws/)
 - [Cloud Watch](aws/)
