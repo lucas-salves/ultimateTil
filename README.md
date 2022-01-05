@@ -208,7 +208,7 @@ Repository for share everyday learning
 - [DynamoDB](aws/a1a9bf2f.md)
 - [Auto Scaling](aws/fc391065.md)
 - [VPN](aws/)
-- [VPC](aws/)
+- [VPC](aws/c21ec66e.md)
 - [Transit Gateway](aws/)
 - [Internet Gateway](aws/)
 - [NAT Gateway](aws/)
