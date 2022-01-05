@@ -207,7 +207,7 @@ Repository for share everyday learning
 - [RDS](aws/f60ea983.md)
 - [DynamoDB](aws/a1a9bf2f.md)
 - [Auto Scaling](aws/fc391065.md)
-- [VPN](aws/)
+- [VPN](aws/bcafbad3.md)
 - [VPC](aws/c21ec66e.md)
 - [Transit Gateway](aws/)
 - [Internet Gateway](aws/)
