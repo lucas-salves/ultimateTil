@@ -211,7 +211,7 @@ Repository for share everyday learning
 - [VPC](aws/c21ec66e.md)
 - [Transit Gateway](aws/921599c9.md)
 - [Internet Gateway](aws/bfe71d87.md)
-- [NAT Gateway](aws/)
+- [NAT Gateway](aws/0e26a62a.md)
 - [Cloud Front](aws/)
 - [Cloud Formation](aws/)
 - [Cloud Trail](aws/)
