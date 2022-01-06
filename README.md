@@ -78,7 +78,9 @@ Repository for share everyday learning
 - [Concurrency: Are Class variables shared between threads?](java/8838b9e9.md)
 - [Collections: LinkedList](java/7bf6cd78.md)
 - [Collections: frequency](java/27679522.md)
-
+- [Java Official Tutorial]
+	- [Java EE vs Java SE](java/2a1f44b5.md)
+	
 ### Python
 #### Syntax
 - [Identation](python/1cfde0aa.md)
