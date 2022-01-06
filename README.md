@@ -77,6 +77,7 @@ Repository for share everyday learning
 - [Trim: remove spaces from begin and end of a String](java/21151374.md)
 - [Concurrency: Are Class variables shared between threads?](java/8838b9e9.md)
 - [Collections: LinkedList](java/7bf6cd78.md)
+- [Collections: frequency](java/27679522.md)
 
 ### Python
 #### Syntax
