@@ -79,6 +79,7 @@ Repository for share everyday learning
 - [Collections: LinkedList](java/7bf6cd78.md)
 - [Collections: frequency](java/27679522.md)
 - [String.join() - Convert a array of strings in a string](java/996a9c49.md)
+- [Arrays.copyOf(): truncates the array in a new array](java/a734c256.md)
 - [Java Official Tutorial]()
 	- [Java EE vs Java SE](java/2a1f44b5.md)
 	
