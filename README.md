@@ -78,8 +78,10 @@ Repository for share everyday learning
 - [Concurrency: Are Class variables shared between threads?](java/8838b9e9.md)
 - [Collections: LinkedList](java/7bf6cd78.md)
 - [Collections: frequency](java/27679522.md)
-- [Java Official Tutorial]
+- [String.join() - Convert a array of strings in a string](java/996a9c49.md)
+- [Java Official Tutorial]()
 	- [Java EE vs Java SE](java/2a1f44b5.md)
+	
 	
 ### Python
 #### Syntax
