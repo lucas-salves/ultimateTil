@@ -82,6 +82,7 @@ Repository for share everyday learning
 - [Arrays.copyOf(): truncates the array in a new array](java/a734c256.md)
 - [Lambda: count all ocurrences of a attribute in a object list](java/ef55ad85.md)
 - [Streams: distinct](java/545da43f.md)
+- [Serialize Java Objects into XML String](java/e5d6fb4e.md)
 - [Java Official Tutorial]()
 	- [Java EE vs Java SE](java/2a1f44b5.md)
 	- [Containers](java/def1a7db.md)
