@@ -153,6 +153,7 @@ Repository for share everyday learning
 - [Scope](python/c16e7ad7.md)
 - [Modules](python/e10a7a4b.md)
 - [Dates](python/6ab5e61a.md)
+
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
 - [Delete unpushed commits](git/8d8fa5aa.md)
