@@ -89,7 +89,7 @@ Repository for share everyday learning
 	- [Java EE vs Java SE](java/2a1f44b5.md)
 	- [Containers](java/def1a7db.md)
 - [Java EE](java/f842e400.md)
-	JB48
+
 	
 ### Python
 #### Syntax
