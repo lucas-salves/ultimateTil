@@ -85,6 +85,7 @@ Repository for share everyday learning
 - [Serialize Java objects into XML String](java/e5d6fb4e.md)
 - [Deserialize XML String into Java objects](java/dd554b16.md)
 - [Accept any number of arguments of any type in a method](java/cdf8b567.md)
+- [Concurrent map](java/c6094f3b.md)
 - [Java Official Tutorial]()
 	- [Java EE vs Java SE](java/2a1f44b5.md)
 	- [Containers](java/def1a7db.md)
