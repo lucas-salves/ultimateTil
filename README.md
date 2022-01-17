@@ -197,6 +197,7 @@ Repository for share everyday learning
 - [Singleton Pattern](design-patterns/singleton-pattern)
 - [Why use: use case interactors](design-patterns/d32f6a1c.md)
 - [Design patters to apply to a file system](design-patterns/design-pattern-to-apply-to-a-file-system)
+- [Servlet Dispatcher](java/59b65eee.md)
 
 ### Software Engineering
 - [Use Case modeling](software-engineering/b693f755.md)
