@@ -242,6 +242,7 @@ Repository for share everyday learning
 ### HTTP
 - [Form data and request payload](http/01.md)
 ### Database
+- [What is schemas](db/116f5347.md)
 
 - [Error resolution: Problems installing mongodb on ubuntu 20.04](database/05152589.md)
 
