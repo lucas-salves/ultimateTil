@@ -87,6 +87,8 @@ Repository for share everyday learning
 - [Accept any number of arguments of any type in a method](java/cdf8b567.md)
 - [Concurrent map](java/c6094f3b.md)
 - [Compare Java objects using Object.equals() method](java/98bb45b7.md)
+- Spring
+	- [Servlet Dispatcher](java/59b65eee.md)
 - Java Official Tutorial
 	- [Java EE vs Java SE](java/2a1f44b5.md)
 	- [Containers](java/def1a7db.md)
@@ -197,8 +199,6 @@ Repository for share everyday learning
 - [Singleton Pattern](design-patterns/singleton-pattern)
 - [Why use: use case interactors](design-patterns/d32f6a1c.md)
 - [Design patters to apply to a file system](design-patterns/design-pattern-to-apply-to-a-file-system)
-- Spring
-- [Servlet Dispatcher](java/59b65eee.md)
 
 ### Software Engineering
 - [Use Case modeling](software-engineering/b693f755.md)
