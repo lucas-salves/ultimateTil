@@ -89,6 +89,7 @@ Repository for share everyday learning
 - [Compare Java objects using Object.equals() method](java/98bb45b7.md)
 - [Storing api keys in environment variables in Linux](java/1ee55c42.md)
 - [Gson: exclude fields from serialization](java/180454fa.md)
+- [Collections: multi dimensional Arraylists](java/19835211.md)
 - Spring
 	- [Servlet Dispatcher](java/59b65eee.md)
 - Java Official Tutorial
