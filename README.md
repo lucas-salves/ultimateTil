@@ -91,6 +91,7 @@ Repository for share everyday learning
 - [Gson: exclude fields from serialization](java/180454fa.md)
 - [Collections: multi dimensional Arraylists](java/19835211.md)
 - [Collections: Remove nulls from a list](java/1a0b9f36.md)
+- [Collections: remove all ocurrencies of a element from a list](java/0702659b.md)
 - Spring
 	- [Servlet Dispatcher](java/59b65eee.md)
 - Java Official Tutorial
