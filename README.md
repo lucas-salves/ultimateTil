@@ -96,6 +96,7 @@ Repository for share everyday learning
 - [Static enums](java/5eb99d71.md)
 - Spring
 	- [Servlet Dispatcher](java/59b65eee.md)
+	- [Spring Boot SpringApplication Class](java/1b1ee453.md)
 - Java Official Tutorial
 	- [Java EE vs Java SE](java/2a1f44b5.md)
 	- [Containers](java/def1a7db.md)
