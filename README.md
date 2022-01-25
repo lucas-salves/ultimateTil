@@ -199,6 +199,7 @@ Repository for share everyday learning
 - [Get the default branch name](git/14107996.md)
 - [Stash only the staged changes](git/d7234948.md)
 - [Update Git to the latest version on Ubuntu](git/95777927.md)
+- [status porcelain flag](git/4df5fd2f.md)
 ### Design Patterns
 - [Using verbs in class names](design-patters/using-verbs-in-class-names)
 - [Data modeling: what is an "order line"?](design-patterns/what-is-an-order-line)
