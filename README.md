@@ -197,6 +197,7 @@ Repository for share everyday learning
 - [What is the difference between git pull and git fetch](git/)
 - [Do a diff between a local and remote file](git/05802050.md)
 - [Get the default branch name](git/14107996.md)
+- [Stash only the staged changes](git/d7234948.md)
 ### Design Patterns
 - [Using verbs in class names](design-patters/using-verbs-in-class-names)
 - [Data modeling: what is an "order line"?](design-patterns/what-is-an-order-line)
