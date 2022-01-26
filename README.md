@@ -257,6 +257,7 @@ Repository for share everyday learning
 
 ### HTTP
 - [Form data and request payload](http/01.md)
+- [HTTP codes](http/97c318b5.md)
 ### Database
 - [What is schemas](db/116f5347.md)
 
