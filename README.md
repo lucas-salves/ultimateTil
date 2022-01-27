@@ -118,7 +118,7 @@ Repository for share everyday learning
 - [Global variables](python/44b7b3e0.md)
 
 #### Data types
-- [Build-int data types](python/af1602fd.md)
+- [Build-in data types](python/af1602fd.md)
 - [Numbers](python/6efe4246.md)
 - [Casting](python/c87b32ef.md)
 - [Strings](python/7b275369.md)
