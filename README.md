@@ -96,7 +96,7 @@ Repository for share everyday learning
 - [Static enums](java/5eb99d71.md)
 - [BigDecimal truncating](java/49099031.md)
 - [Is Java Pass by value or Pass by reference](java/39ec1651.md)
-- [Throw a exception without breaking a loop](java/c4ab73f1.md)
+- [Throw an exception without breaking a loop](java/c4ab73f1.md)
 - Spring
 	- [Servlet Dispatcher](java/59b65eee.md)
 	- [Spring Boot SpringApplication Class](java/1b1ee453.md)
