@@ -96,6 +96,7 @@ Repository for share everyday learning
 - [Static enums](java/5eb99d71.md)
 - [BigDecimal truncating](java/49099031.md)
 - [Is Java Pass by value or Pass by reference](java/39ec1651.md)
+- [Throw a exception without breaking a loop](java/c4ab73f1.md)
 - Spring
 	- [Servlet Dispatcher](java/59b65eee.md)
 	- [Spring Boot SpringApplication Class](java/1b1ee453.md)
@@ -169,7 +170,6 @@ Repository for share everyday learning
 - [Scope](python/c16e7ad7.md)
 - [Modules](python/e10a7a4b.md)
 - [Dates](python/6ab5e61a.md)
-
 
 ### Git
 - [Revert to origin's master branch's version of file](git/552f95f3.md)
