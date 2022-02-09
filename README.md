@@ -71,7 +71,7 @@ Repository for share everyday learning
 - [Return with no expression](java/b201343c.md)
 - [Varargs: ... parameters](java/257c5094.md)
 - [Streams: Filter](java/c0424366.md)
-- [Lambda: modify variable from inside lambda](java/74f30fcd.md)
+- [Lambda: modify local variable outside of a Lambda function](java/74f30fcd.md)
 - [Retrieve all values from hashmap keys in an ArrayList](java/a6a1b39b.md)
 - [Ternary Operator](java/a89868c2.md)
 - [Trim: remove spaces from begin and end of a String](java/21151374.md)
@@ -97,6 +97,7 @@ Repository for share everyday learning
 - [BigDecimal truncating](java/49099031.md)
 - [Is Java Pass by value or Pass by reference](java/39ec1651.md)
 - [Throw an exception without breaking a loop](java/c4ab73f1.md)
+- [Supressed exceptions](java/fd3d8f25.md)
 - Spring
 	- [Servlet Dispatcher](java/59b65eee.md)
 	- [Spring Boot SpringApplication Class](java/1b1ee453.md)
