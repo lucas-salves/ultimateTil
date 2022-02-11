@@ -5,6 +5,7 @@ Repository for share everyday learning
 
 ### Categories
 
+* [Algorithms and Data Structure](#algorithms-and-data-structure)
 * [Java](#java)
 * [Git](#git)
 * [Design Patterns](#design-patterns)
@@ -18,6 +19,23 @@ Repository for share everyday learning
 * [Python](#python)
 
 ---
+
+### Algorithms and Data Structure
+- [Big O](algorithms/)
+- [Strings](algorithms/)
+- [Arrays / Lists](algorithms/)
+- [Maps / Dictionaries](algorithms/)
+- [Sorting Algorithms](algorithms/)
+- [Binary Search](algorithms/)
+- [Queue](algorithms/)
+- [Stacks](algorithms/)
+- [Binary Search Trees](algorithms/)
+- [Heaps / Priority Queues](algorithms/)
+- [Graph teory](algorithms/)
+- [BFS](algorithms/)
+- [DFS](algorithms/)
+- [Tries](algorithms/)
+- [UnionFind](algorithms/)
 
 ### Java
 - [Apache HttpClient - Interceptors](java/java-http/a3c9f256.md)
