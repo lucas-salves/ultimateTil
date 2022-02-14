@@ -21,7 +21,7 @@ Repository for share everyday learning
 ---
 
 ### Algorithms and Data Structure
-- [Big O](algorithms/)
+- [Algorithmic complexity](algorithms/)
 - [Strings](algorithms/)
 - [Arrays / Lists](algorithms/)
 - [Maps / Dictionaries](algorithms/)
