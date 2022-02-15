@@ -21,7 +21,7 @@ Repository for share everyday learning
 ---
 
 ### Algorithms and Data Structure
-- [Algorithmic complexity](algorithms/)
+- [Algorithmic complexity](algorithms/0012204b.md)
 - [Strings](algorithms/)
 - [Arrays / Lists](algorithms/)
 - [Maps / Dictionaries](algorithms/)
